@@ -1,1 +1,1 @@
-Fork of a fork of the code examples from "Computational Semantics with Functional Programming" (Eijck, Unger) http://www.computational-semantics.eu/
+Fork of a fork of the code examples from the book "Computational Semantics with Functional Programming" (Jan van Eijck, Christina Unger, N.Y.: Cambridge University Press, 2010) http://www.computational-semantics.eu/
